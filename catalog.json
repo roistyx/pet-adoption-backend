@@ -1,0 +1,366 @@
+[{
+  "_id": {
+    "$oid": "63fe6cbfac8b34ebfcacf9b6"
+  },
+  "specie": "Cat",
+  "breed": "Israeli",
+  "sex": "",
+  "age": "adult",
+  "weight": "obese",
+  "height": "long",
+  "color": "Gray",
+  "hypoallergenic": "no",
+  "name": "Farty",
+  "bio": "Very gasy cat with an addiction problem to beans",
+  "profilePic": "http://localhost:3100/uploads/1677618364957.0803cat-toes-paw-number-paws-tiger-tabby.jpg",
+  "status": "available",
+  "created_at": {
+    "$date": {
+      "$numberLong": "1677618367280"
+    }
+  },
+  "created_by": {
+    "$oid": "63fcef9ee3980ed8e3838658"
+  },
+  "currentOwner": {
+    "$oid": "63fcef9ee3980ed8e3838658"
+  },
+  "modified_at": {
+    "$date": {
+      "$numberLong": "1678013292811"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63fe6d20ac8b34ebfcacf9b7"
+  },
+  "specie": "Slug",
+  "breed": "Gutterrol",
+  "sex": "",
+  "age": "senior",
+  "weight": "overweight",
+  "height": "medium",
+  "color": "Brown",
+  "hypoallergenic": "yes",
+  "name": "Sluggy",
+  "bio": "Found in the gutters passed out drunk",
+  "profilePic": "http://localhost:3100/uploads/1677618462175.0593images.jpg",
+  "status": "foster",
+  "created_at": {
+    "$date": {
+      "$numberLong": "1677618464091"
+    }
+  },
+  "created_by": {
+    "$oid": "63fcef9ee3980ed8e3838658"
+  },
+  "currentOwner": {
+    "$oid": "63fcef9ee3980ed8e3838658"
+  },
+  "modified_at": {
+    "$date": {
+      "$numberLong": "1678047139091"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63fe6da0ac8b34ebfcacf9b8"
+  },
+  "specie": "Snail",
+  "breed": "Nazelet ",
+  "sex": "female",
+  "age": "young",
+  "weight": "obese",
+  "height": "medium",
+  "color": "Undefined ",
+  "hypoallergenic": "no",
+  "name": "Hildegard  Daff",
+  "bio": "Runny, slimy and annoying",
+  "profilePic": "http://localhost:3100/uploads/1677618589978.595slime.jpg",
+  "status": "available",
+  "created_at": {
+    "$date": {
+      "$numberLong": "1677618592024"
+    }
+  },
+  "created_by": {
+    "$oid": "63fcef9ee3980ed8e3838658"
+  },
+  "currentOwner": {
+    "$oid": "63fcef9ee3980ed8e3838658"
+  },
+  "modified_at": {
+    "$date": {
+      "$numberLong": "1678041128891"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63fe6e06ac8b34ebfcacf9b9"
+  },
+  "specie": "Jumpy",
+  "breed": "Toad",
+  "sex": "",
+  "age": "young",
+  "weight": "normal",
+  "height": "short",
+  "color": "Green",
+  "hypoallergenic": "yes",
+  "name": "Jesper",
+  "bio": "A frog found by the swamp lazying in the sun",
+  "profilePic": "http://localhost:3100/uploads/1677618692885.098101470430.jpg",
+  "status": null,
+  "created_at": {
+    "$date": {
+      "$numberLong": "1677618694207"
+    }
+  },
+  "created_by": {
+    "$oid": "63fcef9ee3980ed8e3838658"
+  },
+  "currentOwner": {
+    "$oid": "63fcef9ee3980ed8e3838658"
+  }
+},{
+  "_id": {
+    "$oid": "63fe70e1ac8b34ebfcacf9ba"
+  },
+  "specie": "Dog",
+  "breed": "Golden Schwock",
+  "sex": "female",
+  "age": "young",
+  "weight": "normal",
+  "height": "medium",
+  "color": "Gold",
+  "hypoallergenic": "yes",
+  "name": "Stephanie",
+  "bio": "Hyperactive puppy",
+  "profilePic": "http://localhost:3100/uploads/1677619260834.211717DOGS-mobileMasterAt3x-v2.web.jpg",
+  "status": null,
+  "created_at": {
+    "$date": {
+      "$numberLong": "1677619425247"
+    }
+  },
+  "created_by": {
+    "$oid": "63fcef9ee3980ed8e3838658"
+  },
+  "currentOwner": {
+    "$oid": "63fcef9ee3980ed8e3838658"
+  }
+},{
+  "_id": {
+    "$oid": "63ff2d54ff2a9cf896aff63b"
+  },
+  "specie": "Lizzzard",
+  "breed": "Batoma",
+  "sex": null,
+  "age": "young",
+  "weight": "overweight",
+  "height": "long",
+  "color": "Green",
+  "hypoallergenic": "no",
+  "name": "Slicky ",
+  "bio": "This is my lizard",
+  "profilePic": "http://localhost:3100/uploads/1677667665816.164green-lizzard-looking-large-lizard-camera-31148225.jpg",
+  "status": null,
+  "created_at": {
+    "$date": {
+      "$numberLong": "1677667668518"
+    }
+  },
+  "created_by": {
+    "$oid": "63fcef9ee3980ed8e3838658"
+  },
+  "currentOwner": {
+    "$oid": "63fcef9ee3980ed8e3838658"
+  },
+  "modified_at": {
+    "$date": {
+      "$numberLong": "1677669422821"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63ff34a44c84cbf8bc721cc5"
+  },
+  "specie": "Lizzard",
+  "breed": "African Lizzard",
+  "sex": "",
+  "age": "young",
+  "weight": "overweight",
+  "height": "medium",
+  "color": "Brown",
+  "hypoallergenic": "no",
+  "name": "Jameson",
+  "bio": "The best",
+  "profilePic": "http://localhost:3100/uploads/1677669538184.0574pogona-vitticeps-walks-on-green-260nw-1512294638.jpg",
+  "status": null,
+  "created_at": {
+    "$date": {
+      "$numberLong": "1677669540091"
+    }
+  },
+  "created_by": {
+    "$oid": "63fcef9ee3980ed8e3838658"
+  },
+  "currentOwner": {
+    "$oid": "63fcef9ee3980ed8e3838658"
+  }
+},{
+  "_id": {
+    "$oid": "6400b2a9ab1a19422c3bc6ce"
+  },
+  "specie": "Snake",
+  "breed": "Cobra",
+  "sex": "",
+  "age": "newborn",
+  "weight": "normal",
+  "height": "medium",
+  "color": "green",
+  "hypoallergenic": "yes",
+  "name": "Sneaky",
+  "bio": "One sneaky ...",
+  "profilePic": "http://localhost:3100/uploads/1677767334965.0571DCTM_Penguin_UK_DK_AL629526_pkusmj.jpg",
+  "status": null,
+  "created_at": {
+    "$date": {
+      "$numberLong": "1677767337248"
+    }
+  },
+  "created_by": {
+    "$oid": "63fcef9ee3980ed8e3838658"
+  },
+  "currentOwner": {
+    "$oid": "63fcef9ee3980ed8e3838658"
+  }
+},{
+  "_id": {
+    "$oid": "640446fda7a2363813aec14d"
+  },
+  "specie": "Parrot",
+  "breed": "Exotic",
+  "sex": "other",
+  "age": "adult",
+  "weight": "overweight",
+  "height": "medium",
+  "color": "Green",
+  "hypoallergenic": "no",
+  "name": "Jacoba",
+  "bio": "A noisy fellow with an attitude ",
+  "profilePic": "http://localhost:3100/uploads/1677617614365.826217tb-tribirds-mediumSquareAt3X.jpg",
+  "status": "foster",
+  "created_at": {
+    "$date": {
+      "$numberLong": "1677617623504"
+    }
+  },
+  "created_by": {
+    "$oid": "63fcef9ee3980ed8e3838658"
+  },
+  "currentOwner": {
+    "$oid": "63fcef9ee3980ed8e3838658"
+  },
+  "id": "63fe69d7ac8b34ebfcacf9b2",
+  "modified_at": {
+    "$date": {
+      "$numberLong": "1678044504431"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "64045b46a7a2363813aec152"
+  },
+  "specie": "Goldfinch ",
+  "breed": "Golden",
+  "sex": "",
+  "age": "senior",
+  "weight": "obese",
+  "height": "long",
+  "color": "Yellow",
+  "hypoallergenic": "no",
+  "name": "Grisha",
+  "bio": "The goldfinch, scientifically known as Carduelis carduelis.",
+  "profilePic": "http://localhost:3100/uploads/1677617792786.98661800.jpg",
+  "status": "available",
+  "created_at": {
+    "$date": {
+      "$numberLong": "1677617794991"
+    }
+  },
+  "created_by": {
+    "$oid": "63fcef9ee3980ed8e3838658"
+  },
+  "currentOwner": {
+    "$oid": "6400ae9f73d0e6ef80fab1de"
+  },
+  "modified_at": {
+    "$date": {
+      "$numberLong": "1677777533327"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6404f707a7a2363813aec157"
+  },
+  "specie": "Cat",
+  "breed": "Bangali",
+  "sex": "female",
+  "age": "young",
+  "weight": "underweight",
+  "height": "medium",
+  "color": "Ginger",
+  "hypoallergenic": "yes",
+  "name": "OfAvigdor",
+  "bio": "Very scratchy and naughty ",
+  "profilePic": "http://localhost:3100/uploads/1677618222276.1204cute-cat-photos-1593441022.jpg",
+  "status": "adopt",
+  "created_at": {
+    "$date": {
+      "$numberLong": "1677618224147"
+    }
+  },
+  "created_by": {
+    "$oid": "63fcef9ee3980ed8e3838658"
+  },
+  "currentOwner": {
+    "$oid": "63fcef9ee3980ed8e3838658"
+  },
+  "modified_at": {
+    "$date": {
+      "$numberLong": "1678046531593"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6404f740a7a2363813aec158"
+  },
+  "specie": "Cat",
+  "breed": "Israeli",
+  "sex": "",
+  "age": "adult",
+  "weight": "obese",
+  "height": "long",
+  "color": "Gray",
+  "hypoallergenic": "no",
+  "name": "Farty",
+  "bio": "Very gasy cat with an addiction problem to beans",
+  "profilePic": "http://localhost:3100/uploads/1677618364957.0803cat-toes-paw-number-paws-tiger-tabby.jpg",
+  "status": "available",
+  "created_at": {
+    "$date": {
+      "$numberLong": "1677618367280"
+    }
+  },
+  "created_by": {
+    "$oid": "63fcef9ee3980ed8e3838658"
+  },
+  "currentOwner": {
+    "$oid": "63fcef9ee3980ed8e3838658"
+  },
+  "modified_at": {
+    "$date": {
+      "$numberLong": "1678013292811"
+    }
+  }
+}]

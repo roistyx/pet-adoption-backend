@@ -1,0 +1,4 @@
+the purpose of the controller is to handle business logic
+model handles database and data
+
+DAO: Data Access Object

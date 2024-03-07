@@ -1,0 +1,58 @@
+[
+  {
+    "_id": {
+      "$oid": "63f3304a0659f6b70481596f"
+    },
+    "username": "pitput@lala.come",
+    "password": "9f232993f803e20959f4c322181d0d1aa418d9c0c9f4cedd1129c57975e11b87",
+    "firstName": "Pit",
+    "lastName": "Poot",
+    "phoneNumber": "32345242",
+    "created_at": {
+      "$date": {
+        "$numberLong": "1676881994158"
+      }
+    },
+    "login_attempts": 0
+  },
+  {
+    "_id": {
+      "$oid": "63f3306c0659f6b704815970"
+    },
+    "username": "admin@example.com",
+    "password": "9f232993f803e20959f4c322181d0d1aa418d9c0c9f4cedd1129c57975e11b87",
+    "firstName": "Marco",
+    "phoneNumber": "425345",
+    "created_at": {
+      "$date": {
+        "$numberLong": "1676882028949"
+      }
+    },
+    "login_attempts": 0,
+    "lastName": "Poco",
+    "pets": []
+  },
+  {
+    "_id": {
+      "$oid": "63fcef9ee3980ed8e3838658"
+    },
+    "username": "coco@jambo.pol",
+    "password": "5994471abb01112afcc18159f6cc74b4f511b99806da59b3caf5a9c173cacfc5",
+    "firstName": "Coco",
+    "lastName": "Jambo",
+    "phoneNumber": "fgfgfgfg",
+    "created_at": {
+      "$date": {
+        "$numberLong": "1677520798744"
+      }
+    },
+    "login_attempts": 0,
+    "role": "admin",
+    "pets": [
+      "63f4c04f77cd2c30faed9b3f",
+      "63fe6e06ac8b34ebfcacf9b9",
+      "63fe6da0ac8b34ebfcacf9b8",
+      "63fe6d20ac8b34ebfcacf9b7"
+    ]
+  }
+]
