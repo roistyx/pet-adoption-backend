@@ -34,16 +34,6 @@ The project uses dotenv for managing environment variables. Configure the follow
 - JWT_SECRET: Secret key for JWT.
 - MongoDB connection settings.
 
-## Help
-
-Any advise for common problems or issues.
-
-```
-command to run if program contains helper info
-```
-
 ## Authors
-
-Contributors names and contact info
 
 - [roistyx](https://github.com/roistyx)
